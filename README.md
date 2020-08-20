@@ -7,7 +7,7 @@
 
 Rossmann 在歐洲的七個國家擁有超過 3000 家藥店，這些店舖的銷量受推廣、競爭者、學校假期、季節和位置等因素的影響。然而當商店經理基於這些獨特的狀況對銷售額作預測時，其結果的準確率變化非常大。
 
-項目採用的模型是 XGBoost、GBDT 和 RandomForest，Kaggle 比賽中第一名採用的是 XGBoost 模型，這裡也以它為主。
+項目採用的模型是 XGBoost 和 RandomForest，Kaggle 比賽中第一名採用的是 XGBoost 模型，這裡也以它為主。
 
 Rosmann 提供了"train.csv"和"stores.csv"兩個包括銷售數據和店鋪信息的數據集，同時還有一個"test.csv"的數據集，字段和"train.csv"一樣，只是缺少需要提交的"Sales"字段。
 
